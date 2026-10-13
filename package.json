@@ -1,0 +1,9 @@
+{
+  "name": "schlieger-fve-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Schlieger FVE Hub — server se společnými daty, přihlášením a kontrolou úhrad z ABRY",
+  "scripts": { "start": "node server.mjs" },
+  "engines": { "node": ">=20" }
+}
